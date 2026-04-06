@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Illya Gordyy</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   <strong>Computer Science Student | CyberCorps SFS Scholar | AI & Cybersecurity Researcher</strong><br>
